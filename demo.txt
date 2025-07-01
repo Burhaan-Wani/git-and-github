@@ -1,5 +1,0 @@
-hi there
-welcome to git course
-You will learn git from basics to advance
-first we will learn basics of git
-git init, git add <file-name>, git commit -m <commit-msg>
