@@ -10,3 +10,9 @@ In this course you will learn git from basics to advance
 
 First we will learn the basic commands like initializing a git repo, check status, add changes to staging area, and make commits to save those changes and log those commits
 
+welcome to git course
+
+In this course you will learn git from basics to advance
+
+First we will learn the basic commands like initializing a git repo, check status, add changes to staging area, and make commits to save those changes and log those commits
+
